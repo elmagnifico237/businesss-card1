@@ -1,0 +1,40 @@
+h1{
+    color: aquamarine;
+}
+#header1 {
+    color: brown;
+}
+button {
+    background-color:rgb(165, 161, 161);
+}
+.main{
+    color: red;
+}
+.white{
+    background: yellow;
+    height: 300px;
+}
+.red{
+    background: red;
+   height: 300px;
+   margin-bottom: 15px;
+}
+ .blue{
+    background: blue;
+    height: 300px;
+ }
+ .img {
+    display: flex;
+    margin-left: 3000px;
+ }
+ul{
+    background: lightgray;
+    width: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    border:8px dotted blue 
+}
+.follow{
+    border: 2px; border-radius: 2px;
+}
